@@ -1,0 +1,45 @@
+body{
+    background-color: chocolate;
+}
+.contener {
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
+    padding: 20px;
+}
+.title {
+    font-size: 40px;
+    color: red;
+}
+
+.Time {
+    font-size: 80px;
+    color: red;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 30px;
+    color: black;  
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    padding: 15px 35px;
+  
+    
+}
+
+#Start {
+    background-color: green;
+}
+
+#Stop {
+    background-color: yellow;
+}
+
+#Reset {
+    background-color: blue;
+}
